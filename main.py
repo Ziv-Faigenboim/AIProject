@@ -7,7 +7,7 @@ app = Flask(__name__)
 def home():
     return render_template("index.html",content="Testing",r=3)
 #return "Hello! this is the main page <h1>Hello<h1>"
-
+#changedsfsadfgsdfgsdffgs
 #@app.route("/<name>")
 #def user(name):
  #   return f"hello {name}!"
